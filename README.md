@@ -15,7 +15,7 @@ I specialize in building scalable backend solutions and integrating AI models in
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/qalab-e-hassnain)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/qalabhassnainagha)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/qalab-e-hassnain)
 
 ---
@@ -61,6 +61,8 @@ I specialize in building scalable backend solutions and integrating AI models in
    - Architected microservices with a focus on scalability and performance.
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=qalab-e-hassnain&theme=react-dark)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🎯 Fun Fact:
 > I enjoy bridging the gap between AI research and production. Making AI work in real-world applications is my superpower! 🚀
