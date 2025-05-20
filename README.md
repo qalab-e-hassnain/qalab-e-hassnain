@@ -51,7 +51,9 @@ I specialize in building **scalable backend systems** and integrating **AI model
 ![Qalab's GitHub stats](https://github-readme-stats.vercel.app/api?username=qalab-e-hassnain&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalab-e-hassnain&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=qalab-e-hassnain&theme=react-dark)
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qalab-e-hassnain&theme=react-dark)
 
 ---
 
