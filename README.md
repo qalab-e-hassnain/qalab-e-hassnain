@@ -20,7 +20,9 @@ I specialize in building **scalable backend systems** and integrating **AI model
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/qalab-e-hassnain)
 
 ---
+### Achievements 
 
+[![trophy](https://github-profile-trophy.vercel.app/?qalab-e-hassnain=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005C4B?style=for-the-badge&logo=fastapi&logoColor=white)
