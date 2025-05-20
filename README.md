@@ -56,10 +56,6 @@ I specialize in building **scalable backend systems** and integrating **AI model
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qalab-e-hassnain&theme=react-dark&hide_border=true)](https://github.com/qalab-e-hassnain)
 
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qalab-e-hassnain&theme=react-dark)
-
 ---
 
 ### 📂 Featured Repositories
