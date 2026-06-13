@@ -50,11 +50,13 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Quick Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qalab-e-hassnain&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Years Badge](https://badges.pufler.dev/years/qalab-e-hassnain?style=for-the-badge&color=6AD3F7&labelColor=1a1b27&label=Years+on+GitHub)
+![Repos Badge](https://badges.pufler.dev/repos/qalab-e-hassnain?style=for-the-badge&color=6AD3F7&labelColor=1a1b27&label=Public+Repos)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/qalab-e-hassnain?style=for-the-badge&color=6AD3F7&labelColor=1a1b27&label=Monthly+Commits)
 
 </div>
 
