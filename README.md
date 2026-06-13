@@ -208,6 +208,17 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 
 ---
 
+## 📂 Featured Repositories
+
+<div align="center">
+
+[![BERT Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=qalab-e-hassnain&repo=museum-sentiment-analysis-BERT&theme=tokyonight&border_radius=12)](https://github.com/qalab-e-hassnain/museum-sentiment-analysis-BERT)
+[![Fake Ad Detection](https://github-readme-stats.vercel.app/api/pin/?username=qalab-e-hassnain&repo=fake-ad-detection-using-text-classification&theme=tokyonight&border_radius=12)](https://github.com/qalab-e-hassnain/fake-ad-detection-using-text-classification)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -269,8 +280,8 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 <td width="50%">
 
 **🎓 Degrees**
-- **MS Computer Science** — NUST, Islamabad *(2023–2025)*
-- **B.E. Computer Engineering** — Sir Syed CASE Institute of Technology *(2017–2021)*
+- **MS Computer Science** — Sir Syed CASE Institute of Technology *(2023–2025)*
+- **B.E. Computer Engineering** — NUST, Islamabad *(2017–2021)*
 
 </td>
 <td width="50%">
