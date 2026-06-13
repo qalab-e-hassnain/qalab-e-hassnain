@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qalab-e-Hassnain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20AI%20Architect%20%7C%20Python%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qalab-e-Hassnain%20Agha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CTO%20%40%20Quickgen%20Technologies%20%7C%20AI%20Systems%20Architect%20%7C%20Backend%20Engineer&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Deploying+AI+at+Production+Scale+%F0%9F%A4%96;Turning+Prototypes+into+Real+Products+%F0%9F%92%A1;FastAPI+%7C+Python+%7C+MLOps+%7C+Cloud+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Building+AI+Systems+That+Work+in+Production+%F0%9F%9A%80;Real-Time+LLM+Pipelines+%7C+Computer+Vision+%7C+IoT;4%2B+Years+%7C+10%2B+AI+Systems+Shipped+%7C+80%2B+Clients;Islamabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qalabhassnainagha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghaqalabhassnain@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qalab-e-hassnain)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@quickgentech.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=qalab-e-hassnain&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)](https://github.com/qalab-e-hassnain)
 
 </div>
@@ -18,52 +18,35 @@
 ## 🧬 About Me
 
 ```python
-class QalabHassnain:
-    role       = "Backend Engineer & AI Architect"
-    location   = "🌍 Pakistan"
-    focus      = ["Scalable APIs", "MLOps", "AI Integration", "Cloud-Native Systems"]
-    languages  = ["Python", "SQL", "Bash"]
-    ask_me     = ["FastAPI", "Model Deployment", "System Design", "REST APIs"]
-    fun_fact   = "I turn AI prototypes into battle-hardened production systems 💡"
+class QalabHassnainAgha:
+    title      = "CTO @ Quickgen Technologies"
+    role       = "AI Systems Architect · Backend Engineer"
+    location   = "Islamabad, Pakistan 🇵🇰"
+    experience = "4+ years shipping production AI systems"
+    domains    = ["Healthcare", "Hospitality", "Fintech", "Consumer Tech"]
+    builds     = [
+        "Real-Time LLM Pipelines",
+        "Computer Vision Systems",
+        "IoT & Wearable Platforms",
+        "Cloud-Native Microservices",
+    ]
+    contact    = "aghaqalabhassnain@gmail.com"
 
-    def current_mission(self):
-        return "Bridging AI research and real-world engineering at scale 🚀"
+    def philosophy(self):
+        return "Prototypes are easy. Production is the real problem. 💡"
 ```
 
 ---
 
-## 🚀 What I'm Up To
+## 🧠 What I Build
 
-<table>
-<tr>
-<td width="50%">
-
-🔭 **Working On**
-- AI model deployment pipelines
-- Cloud-native backend solutions
-- High-performance REST APIs
-
-🌱 **Learning**
-- Advanced MLOps & model serving
-- Cloud-native app patterns
-- LLM integration strategies
-
-</td>
-<td width="50%">
-
-👯 **Open To Collaborate On**
-- AI-integrated platforms
-- ML API products
-- Microservice architectures
-
-💬 **Ask Me About**
-- `Python` · `FastAPI` · `MLOps`
-- `System Architecture` · `REST APIs`
-- `Docker` · `Kubernetes` · `AWS`
-
-</td>
-</tr>
-</table>
+```
+Real-Time AI Pipelines      →  PCM audio ingestion, LLM transcription, intent classification
+Computer Vision Systems     →  YOLOv8 detection, multi-object tracking, anomaly detection
+LLM-Powered Backends        →  RAG pipelines, AI agents, semantic search, streaming APIs
+IoT & Wearable Platforms    →  200Hz+ sensor data, BLE, MQTT, edge AI
+Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
+```
 
 ---
 
@@ -81,42 +64,147 @@ class QalabHassnain:
 
 <div align="center">
 
-### ⚡ Core Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005C4B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-FF6B6B?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### ⚡ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### ☁️ Cloud, DevOps & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🤖 AI / ML Stack
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 🔧 Tools & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### 🖥️ Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🏥 upLYFT — Physical Rehabilitation SaaS Platform</b></summary>
+<br/>
+
+> IoT wearable + ML kinematics pipeline + clinician/patient web platform on **Microsoft Azure**
+
+| Metric | Result |
+|:---|:---|
+| 🎯 ML Classification Accuracy | **92%+** gait & kinetics models |
+| ⚡ Sensor Data Rate | **200Hz+** via WebSockets & UDP |
+| 📡 Latency | **Sub-100ms** end-to-end |
+| 👥 Team | Led **5 engineers** across 3 major releases |
+
+`FastAPI` `PostgreSQL` `Azure` `WebSockets` `ML Kinematics` `Docker`
+
+</details>
+
+<details>
+<summary><b>🏨 QuickComm — Hospitality AI Communication Platform</b></summary>
+<br/>
+
+> Real-time walkie-talkie replacement with LLM-powered intelligence
+
+| Metric | Result |
+|:---|:---|
+| 🎤 Transcription Accuracy | **94%+** via Whisper / DeepGram |
+| 🧠 Intent Classification | **~88% precision** with Gemini LLM |
+| 🚀 Throughput | **3× improvement** after monolith → microservices |
+| 🔔 Incident Response | **70% faster** with real-time monitoring |
+
+`FastAPI` `AWS` `Whisper` `DeepGram` `Gemini` `MQTT` `Microservices` `Docker`
+
+</details>
+
+<details>
+<summary><b>📹 CCTV Anomaly Detection — Computer Vision System</b></summary>
+<br/>
+
+> Live multi-camera feed analysis for security operations
+
+| Metric | Result |
+|:---|:---|
+| 🎯 Detection Accuracy | **91%** across 8+ simultaneous streams |
+| 🚨 False Positive Reduction | **35%** fewer false alerts |
+| 📹 Streams | YOLOv8 + multi-object tracking |
+
+`YOLOv8` `OpenCV` `PyTorch` `Python` `Real-Time Inference` `Docker`
+
+</details>
+
+<details>
+<summary><b>⛳ Apollo Golf Companion App</b></summary>
+<br/>
+
+> GPS-based rangefinder replacement with full round analytics
+
+| Metric | Result |
+|:---|:---|
+| ⚡ API Response Time | **Sub-80ms** |
+| 📍 GPS Accuracy | **±2 meters** |
+| 👤 Active Users | **1,000+** |
+
+`FastAPI` `PostgreSQL` `GPS Integration` `AWS`
+
+</details>
+
+<details>
+<summary><b>🌐 Real-Time Multilingual Translation Platform</b></summary>
+<br/>
+
+> Live audio → transcription → translation across 10+ languages
+
+| Metric | Result |
+|:---|:---|
+| ⚡ End-to-End Latency | **Sub-800ms** |
+| 🎤 Transcription Accuracy | **96%+** with custom fine-tuning |
+| 🌍 Languages | 10+ supported |
+
+`Python` `Whisper` `FastAPI` `WebSockets` `NLP`
+
+</details>
+
+<details>
+<summary><b>💝 The Giving Cube — Smart IoT Donation Ecosystem</b></summary>
+<br/>
+
+> Hardware donation box + mobile app + web dashboard for charities
+
+| Metric | Result |
+|:---|:---|
+| 💷 Donations Processed | **£50K+** during pilot phase |
+| 💳 Transaction Reliability | **99.9%** via Stripe |
+| 📡 Connectivity | BLE + WiFi sync to cloud backend |
+
+`FastAPI` `Stripe API` `PostgreSQL` `BLE` `React Native` `Flask`
+
+</details>
 
 ---
 
@@ -159,57 +247,71 @@ class QalabHassnain:
 
 ---
 
-## 🧠 Projects in Focus
+## 📈 Experience Snapshot
 
 <div align="center">
 
-| Project | Description | Stack |
-|:-------:|:-----------:|:-----:|
-| 🤖 **AI-Powered APIs** | Serving ML models at scale | FastAPI · TensorFlow · Docker |
-| ⚙️ **MLOps Pipelines** | End-to-end ML workflow automation | Kubernetes · TF Serving · Airflow |
-| 🏗️ **Scalable Backends** | Microservices for production workloads | FastAPI · PostgreSQL · Redis · AWS |
-| 🔗 **LLM Integrations** | Embedding LLMs into real products | LangChain · HuggingFace · OpenAI |
+| 🏆 | Metric |
+|:---:|:---|
+| **4+** | Years of professional engineering |
+| **10+** | Production AI systems shipped |
+| **5+** | Engineers led across cross-functional teams |
+| **80+** | Clients served via Quickgen Technologies |
 
 </div>
 
 ---
 
-## 📂 Featured Repositories
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+**🎓 Degrees**
+- **MS Computer Science** — NUST, Islamabad *(2023–2025)*
+- **B.E. Computer Engineering** — Sir Syed CASE Institute of Technology *(2017–2021)*
+
+</td>
+<td width="50%">
+
+**📜 Certifications** *(Coursera)*
+- Applied Data Science with Python
+- Neural Networks and Deep Learning
+- Applied Machine Learning in Python
+- AI for Medical Diagnosis
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Open To
 
 <div align="center">
 
-[![AI Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=qalab-e-hassnain&repo=ai-backend-project&theme=tokyonight&border_radius=12)](https://github.com/qalab-e-hassnain/ai-backend-project)
-[![ML API Starter](https://github-readme-stats.vercel.app/api/pin/?username=qalab-e-hassnain&repo=ml-api-starter&theme=tokyonight&border_radius=12)](https://github.com/qalab-e-hassnain/ml-api-starter)
+| 🤝 Engagement | 💬 Details |
+|:---:|:---|
+| **Consulting** | Startups building AI products from 0→1 |
+| **Full-Time** | Senior AI Engineer / Backend Engineer roles |
+| **Freelance** | AI & backend projects with real-world impact |
 
 </div>
 
 ---
 
-## 💡 Dev Philosophy
-
 <div align="center">
 
-> *"Prototype fast. Scale smart. Deploy fearlessly."*
+**💬 Got an AI product you're building? A backend that needs fixing?**
 
-| 🎯 Principle | 💬 Belief |
-|:---:|:---:|
-| **Clean Architecture** | Code should outlive its author |
-| **AI at the Edge** | Intelligence belongs in every layer |
-| **Production Mindset** | If it's not monitored, it's not deployed |
-| **Continuous Learning** | The best engineers are perpetual students |
+[![Email Me](https://img.shields.io/badge/Email-aghaqalabhassnain@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghaqalabhassnain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qalabhassnainagha)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**💻 Let's build something amazing together!**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qalabhassnainagha)
-
-*"Bridging AI research and real-world engineering — one API at a time."* 🚀
+*"Prototypes are easy. Production is the real problem."* 🚀
 
 </div>
