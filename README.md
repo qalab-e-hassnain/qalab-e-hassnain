@@ -71,7 +71,7 @@ class QalabHassnain:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qalab-e-hassnain&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qalab-e-hassnain&theme=onedark&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -152,8 +152,10 @@ class QalabHassnain:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+> ⚡ Snake is auto-generated every 12 hours via [GitHub Actions](.github/workflows/snake.yml)
 
 </div>
 
