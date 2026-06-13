@@ -145,17 +145,15 @@ class QalabHassnain:
 
 ---
 
-## 🐍 Contribution Snake
+## 📦 Profile Summary
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/qalab-e-hassnain/qalab-e-hassnain/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qalab-e-hassnain&theme=tokyonight" width="100%" />
 
-> ⚡ Snake is auto-generated every 12 hours via [GitHub Actions](.github/workflows/snake.yml)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qalab-e-hassnain&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qalab-e-hassnain&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qalab-e-hassnain&theme=tokyonight" width="32%" />
 
 </div>
 
