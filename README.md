@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qalab-e-Hassnain%20Agha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CTO%20%40%20Quickgen%20Technologies%20%7C%20AI%20Systems%20Architect%20%7C%20Backend%20Engineer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qalab-e-Hassnain%20Agha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Co-Founder%20%26%20CTO%20%40%20Quickgen%20Technologies%20%7C%20AI%20Systems%20Architect%20%7C%20Edge%20AI%20Research&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Building+AI+Systems+That+Work+in+Production+%F0%9F%9A%80;Real-Time+LLM+Pipelines+%7C+Computer+Vision+%7C+IoT;4%2B+Years+%7C+10%2B+AI+Systems+Shipped+%7C+80%2B+Clients;Islamabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Building+AI+Systems+That+Work+in+Production+%F0%9F%9A%80;Edge+AI+%7C+Wearable+Sensing+%7C+Real-Time+Voice+AI;6%2B+Years+%7C+6+P%40SHA+ICT+Awards+%7C+80%2B+Clients;Islamabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,11 +20,17 @@
 
 ```python
 class QalabHassnainAgha:
-    title      = "CTO @ Quickgen Technologies"
-    role       = "AI Systems Architect · Backend Engineer"
+    title      = "Co-Founder & CTO @ Quickgen Technologies"
+    role       = "AI Systems Architect · Edge AI Researcher"
     location   = "Islamabad, Pakistan 🇵🇰"
-    experience = "4+ years shipping production AI systems"
+    experience = "6+ years engineering, 4+ shipping production AI"
+    awards     = "6 P@SHA ICT Awards (5 for QuickComm AI, 2026)"
     domains    = ["Healthcare", "Hospitality", "Fintech", "Consumer Tech"]
+    research   = [
+        "Resource-efficient edge AI",
+        "Wearable & intelligent sensing",
+        "Evaluation of medical imaging AI",
+    ]
     builds     = [
         "Real-Time LLM Pipelines",
         "Computer Vision Systems",
@@ -48,6 +54,22 @@ LLM-Powered Backends        →  RAG pipelines, AI agents, semantic search, stre
 IoT & Wearable Platforms    →  200Hz+ sensor data, BLE, MQTT, edge AI
 Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 ```
+
+---
+
+## 🔬 Research
+
+```
+Interests  →  Adaptive, resource-efficient ML across device, edge and cloud
+              Wearable & intelligent sensing for health · TinyML on microcontrollers
+```
+
+| | Work | Status |
+|:---:|:---|:---|
+| 📄 | **What Transfers From Synthetic to Real Scalp Dermoscopy? A Pre-Deployment Component-Level Evaluation for Handheld Trichoscopy** (sole author). Shows that which segmentation method looks best can flip with how evaluation labels are made, and that density should come from follicles, not shaft counts. | Submitted to *Computer Methods and Programs in Biomedicine* (Elsevier), Oct 2026 |
+| 🗂️ | **ScalpHairLabels v1**: 504 hand-labelled scalp dermoscopy tiles, seed masks, 1,101 follicle points and optical scale calibrations | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23433121-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23433121) CC BY 4.0 |
+| 💻 | **Reproducible analysis code**: recomputes all 343 reported statistics and figures | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23432875-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23432875) MIT |
+| 🧪 | **Who pays for compression?** Per-subject effects of quantization and pruning in wearable activity recognition, with on-device measurements on an ESP32-S3 | In progress (pre-registered) |
 
 ---
 
@@ -112,7 +134,7 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🏥 upLYFT — Physical Rehabilitation SaaS Platform</b></summary>
+<summary><b>🏥 upLYFT: Physical Rehabilitation SaaS Platform</b></summary>
 <br/>
 
 > IoT wearable + ML kinematics pipeline + clinician/patient web platform on **Microsoft Azure**
@@ -129,24 +151,24 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 </details>
 
 <details>
-<summary><b>🏨 QuickComm — Hospitality AI Communication Platform</b></summary>
+<summary><b>🏨 QuickComm: Hospitality AI Communication Platform (5 P@SHA ICT Awards, 2026)</b></summary>
 <br/>
 
 > Real-time walkie-talkie replacement with LLM-powered intelligence
 
 | Metric | Result |
 |:---|:---|
-| 🎤 Transcription Accuracy | **94%+** via Whisper / DeepGram |
+| 🎤 Transcription Accuracy | **94%+** via Whisper / Deepgram |
 | 🧠 Intent Classification | **~88% precision** with Gemini LLM |
+| ⏱️ Staff Response | **~45% faster** |
 | 🚀 Throughput | **3× improvement** after monolith → microservices |
-| 🔔 Incident Response | **70% faster** with real-time monitoring |
 
-`FastAPI` `AWS` `Whisper` `DeepGram` `Gemini` `MQTT` `Microservices` `Docker`
+`FastAPI` `AWS` `Whisper` `Deepgram` `Gemini` `ESP32` `Microservices` `Docker`
 
 </details>
 
 <details>
-<summary><b>📹 CCTV Anomaly Detection — Computer Vision System</b></summary>
+<summary><b>📹 CCTV Anomaly Detection: Computer Vision System</b></summary>
 <br/>
 
 > Live multi-camera feed analysis for security operations
@@ -194,18 +216,39 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 </details>
 
 <details>
-<summary><b>💝 The Giving Cube — Smart IoT Donation Ecosystem</b></summary>
+<summary><b>💝 The Giving Cube: Smart IoT Donation Ecosystem</b></summary>
 <br/>
 
 > Hardware donation box + mobile app + web dashboard for charities
 
 | Metric | Result |
 |:---|:---|
-| 💷 Donations Processed | **£50K+** during pilot phase |
+| 💷 Donations Processed | **Tens of thousands** during pilot |
 | 💳 Transaction Reliability | **99.9%** via Stripe |
 | 📡 Connectivity | BLE + WiFi sync to cloud backend |
 
 `FastAPI` `Stripe API` `PostgreSQL` `BLE` `React Native` `Flask`
+
+</details>
+
+<details>
+<summary><b>🧩 More Recent Projects</b></summary>
+<br/>
+
+| Project | What it is | Highlights |
+|:---|:---|:---|
+| **Scentix** | Smart wearable fragrance device | P@SHA ICT Award 2025 · BLE app control · works with any liquid perfume |
+| **BadarAI Assistant** | Conversational voice AI | <800ms end-to-end · multi-turn memory · live tool-calling |
+| **AI Pendant** | Smart wearable for kids | 160+ API endpoints · 5+ health tracking modes · Gemini insights |
+| **Smart Boxing Gloves** | AI combat sports analytics | 200Hz+ sensor streaming · <50ms data-to-insight |
+| **PaperIntel** | RAG research intelligence | Hybrid BM25 + vector retrieval · citation-aware generation |
+| **MRO Digital Twin** | Automotive workshop management | 7 role-based dashboards · full vehicle lifecycle tracking |
+| **Wild Hive** | Self-hosted Shopify alternative for a COD brand | 60 routes · full storefront CMS · COD-native fulfilment |
+| **uGlowMD** | Telehealth storefront rebuild | 46/46 routes prerendered · product page 2,695 KB → 561 KB |
+| **Apex Rider** | Offline-first motorcycle tour companion | Works with no signal · sensor-based crash detection + SOS |
+| **Interior Design AI** | AI-powered room styling | 3-stage pipeline · depth-aware scaling · photoreal compositing |
+
+Full case studies: **[qalabagha.com](https://qalabagha.com)**
 
 </details>
 
@@ -267,10 +310,10 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 
 | 🏆 | Metric |
 |:---:|:---|
-| **4+** | Years of professional engineering |
-| **10+** | Production AI systems shipped |
-| **5+** | Engineers led across cross-functional teams |
-| **80+** | Clients served via Quickgen Technologies |
+| **6+** | Years of professional engineering (4+ in production AI) |
+| **6** | P@SHA ICT Awards won by products I led |
+| **25+** | Engineers led at Quickgen Technologies |
+| **80+** | Clients served |
 
 </div>
 
@@ -283,8 +326,8 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 <td width="50%">
 
 **🎓 Degrees**
-- **MS Computer Science** — Sir Syed CASE Institute of Technology *(2023–2025)*
-- **B.E. Computer Engineering** — NUST, Islamabad *(2017–2021)*
+- **MS Computer Science**, Sir Syed CASE Institute of Technology *(2023 to 2026)*
+- **B.E. Computer Engineering**, NUST *(2017 to 2021)*
 
 </td>
 <td width="50%">
@@ -307,6 +350,7 @@ Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 
 | 🤝 Engagement | 💬 Details |
 |:---:|:---|
+| **Research** | Collaborations in edge AI, wearable sensing and AI for health |
 | **Consulting** | Startups building AI products from 0→1 |
 | **Full-Time** | Senior AI Engineer / Backend Engineer roles |
 | **Freelance** | AI & backend projects with real-world impact |
