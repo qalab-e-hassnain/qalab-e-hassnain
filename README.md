@@ -66,7 +66,7 @@ Interests  →  Adaptive, resource-efficient ML across device, edge and cloud
 
 | | Work | Status |
 |:---:|:---|:---|
-| 📄 | **What Transfers From Synthetic to Real Scalp Dermoscopy? A Pre-Deployment Component-Level Evaluation for Handheld Trichoscopy** (sole author). Shows that which segmentation method looks best can flip with how evaluation labels are made, and that density should come from follicles, not shaft counts. | Submitted to *Computer Methods and Programs in Biomedicine* (Elsevier), Oct 2026 |
+| 📄 | **What Transfers From Synthetic to Real Scalp Dermoscopy? A Pre-Deployment Component-Level Evaluation for Handheld Trichoscopy** (sole author). Shows that which segmentation method looks best can flip with how evaluation labels are made, and that density should come from follicles, not shaft counts. | Submitted to *Computer Methods and Programs in Biomedicine* (Elsevier), Oct 2026 · [![SSRN](https://img.shields.io/badge/Preprint-SSRN%207629167-0A5BA0?style=flat-square)](https://ssrn.com/abstract=7629167) |
 | 🗂️ | **ScalpHairLabels v1**: 504 hand-labelled scalp dermoscopy tiles, seed masks, 1,101 follicle points and optical scale calibrations | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23433121-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23433121) CC BY 4.0 |
 | 💻 | **Reproducible analysis code**: recomputes all 343 reported statistics and figures | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23432875-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23432875) MIT |
 | 🧪 | **Who pays for compression?** Per-subject effects of quantization and pruning in wearable activity recognition, with on-device measurements on an ESP32-S3 | In progress (pre-registered) |
