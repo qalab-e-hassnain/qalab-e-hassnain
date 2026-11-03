@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-qalabagha.com-6AD3F7?style=for-the-badge&logo=globe&logoColor=white)](https://www.qalabagha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qalabhassnainagha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@qalabagha.com)
+[![Contra](https://img.shields.io/badge/Hire_me_on_Contra-000000?style=for-the-badge&logoColor=white)](https://contra.com/qalab_hassnain_agha_1mo2k2o4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qalab-e-hassnain)
 [![Profile Views](https://komarev.com/ghpvc/?username=qalab-e-hassnain&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)](https://github.com/qalab-e-hassnain)
 
