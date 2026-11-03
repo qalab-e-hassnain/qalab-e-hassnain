@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qalab-e-Hassnain%20Agha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Co-Founder%20%26%20CTO%20%40%20Quickgen%20Technologies%20%7C%20AI%20Systems%20Architect%20%7C%20Edge%20AI%20Research&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qalab%20Hassnain%20Agha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20%7C%20IoT%20%26%20Hardware%20%7C%20Co-Founder%20%26%20CTO%20%40%20Quickgen&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Building+AI+Systems+That+Work+in+Production+%F0%9F%9A%80;Edge+AI+%7C+Wearable+Sensing+%7C+Real-Time+Voice+AI;6%2B+Years+%7C+6+P%40SHA+ICT+Awards+%7C+80%2B+Clients;Islamabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Building+AI+Systems+That+Work+in+Production+%F0%9F%9A%80;AI+Engineer+%7C+Full-Stack+%7C+Hardware+Integration;Edge+AI+%7C+Wearable+Sensing+%7C+Real-Time+Voice+AI;6%2B+Years+%7C+6+P%40SHA+ICT+Awards+%7C+80%2B+Clients;Islamabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-qalabagha.com-6AD3F7?style=for-the-badge&logo=globe&logoColor=white)](https://qalabagha.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-qalabagha.com-6AD3F7?style=for-the-badge&logo=globe&logoColor=white)](https://www.qalabagha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qalabhassnainagha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghaqalabhassnain@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@qalabagha.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qalab-e-hassnain)
 [![Profile Views](https://komarev.com/ghpvc/?username=qalab-e-hassnain&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)](https://github.com/qalab-e-hassnain)
 
@@ -21,7 +21,7 @@
 ```python
 class QalabHassnainAgha:
     title      = "Co-Founder & CTO @ Quickgen Technologies"
-    role       = "AI Systems Architect · Edge AI Researcher"
+    role       = "AI Engineer · Full-Stack Developer · AI Systems Architect"
     location   = "Islamabad, Pakistan 🇵🇰"
     experience = "6+ years engineering, 4+ shipping production AI"
     awards     = "6 P@SHA ICT Awards (5 for QuickComm AI, 2026)"
@@ -35,9 +35,11 @@ class QalabHassnainAgha:
         "Real-Time LLM Pipelines",
         "Computer Vision Systems",
         "IoT & Wearable Platforms",
+        "Hardware Integrations (ESP32, BLE, sensors)",
+        "Web & Mobile Apps (Next.js, React Native, Flutter)",
         "Cloud-Native Microservices",
     ]
-    contact    = "aghaqalabhassnain@gmail.com"
+    contact    = "support@qalabagha.com"
 
     def philosophy(self):
         return "Prototypes are easy. Production is the real problem. 💡"
@@ -52,6 +54,8 @@ Real-Time AI Pipelines      →  PCM audio ingestion, LLM transcription, intent 
 Computer Vision Systems     →  YOLOv8 detection, multi-object tracking, anomaly detection
 LLM-Powered Backends        →  RAG pipelines, AI agents, semantic search, streaming APIs
 IoT & Wearable Platforms    →  200Hz+ sensor data, BLE, MQTT, edge AI
+Hardware Integration        →  ESP32 and BLE devices, sensor streaming, device-to-cloud sync
+Full-Stack Web & Mobile     →  Next.js, React, React Native, Flutter, FastAPI backends
 Cloud-Native Infrastructure →  Microservices, Docker, AWS, Azure, CI/CD
 ```
 
@@ -70,18 +74,6 @@ Interests  →  Adaptive, resource-efficient ML across device, edge and cloud
 | 🗂️ | **ScalpHairLabels v1**: 504 hand-labelled scalp dermoscopy tiles, seed masks, 1,101 follicle points and optical scale calibrations | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23433121-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23433121) CC BY 4.0 |
 | 💻 | **Reproducible analysis code**: recomputes all 343 reported statistics and figures | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23432875-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23432875) MIT |
 | 🧪 | **Who pays for compression?** Per-subject effects of quantization and pruning in wearable activity recognition, with on-device measurements on an ESP32-S3 | In progress (pre-registered) |
-
----
-
-## ⚡ Quick Stats
-
-<div align="center">
-
-![Years Badge](https://badges.pufler.dev/years/qalab-e-hassnain?style=for-the-badge&color=6AD3F7&labelColor=1a1b27&label=Years+on+GitHub)
-![Repos Badge](https://badges.pufler.dev/repos/qalab-e-hassnain?style=for-the-badge&color=6AD3F7&labelColor=1a1b27&label=Public+Repos)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/qalab-e-hassnain?style=for-the-badge&color=6AD3F7&labelColor=1a1b27&label=Monthly+Commits)
-
-</div>
 
 ---
 
@@ -126,6 +118,13 @@ Interests  →  Adaptive, resource-efficient ML across device, edge and cloud
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🔌 IoT & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 </div>
 
@@ -248,7 +247,7 @@ Interests  →  Adaptive, resource-efficient ML across device, edge and cloud
 | **Apex Rider** | Offline-first motorcycle tour companion | Works with no signal · sensor-based crash detection + SOS |
 | **Interior Design AI** | AI-powered room styling | 3-stage pipeline · depth-aware scaling · photoreal compositing |
 
-Full case studies: **[qalabagha.com](https://qalabagha.com)**
+Full case studies: **[qalabagha.com](https://www.qalabagha.com)**
 
 </details>
 
@@ -256,51 +255,15 @@ Full case studies: **[qalabagha.com](https://qalabagha.com)**
 
 ## 📂 Featured Repositories
 
-<div align="center">
+| Repository | What it is |
+|:---|:---|
+| [**open-hrm**](https://github.com/qalab-e-hassnain/open-hrm) | Self-hosted HR system: attendance, leave, payroll, contracts and performance. FastAPI, PostgreSQL, React, Docker |
+| [**cancelbench**](https://github.com/qalab-e-hassnain/cancelbench) | Research benchmark for commit timing and cancellation in asynchronous agent actions, with manuscript and code |
+| [**PersonalVault**](https://github.com/qalab-e-hassnain/PersonalVault) | Offline personal vault mobile app with Face ID unlock. Expo, React Native, SQLite |
+| [**drhinaclinic**](https://github.com/qalab-e-hassnain/drhinaclinic) | Cinematic, SEO-optimised clinic website. Next.js, TypeScript, Tailwind CSS |
+| [**dataDrivenDashboardFrontEnd**](https://github.com/qalab-e-hassnain/dataDrivenDashboardFrontEnd) | AI-driven project management dashboard: earned value, critical path, risk register |
 
-[![BERT Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=qalab-e-hassnain&repo=museum-sentiment-analysis-BERT&theme=tokyonight&border_radius=12)](https://github.com/qalab-e-hassnain/museum-sentiment-analysis-BERT)
-[![Fake Ad Detection](https://github-readme-stats.vercel.app/api/pin/?username=qalab-e-hassnain&repo=fake-ad-detection-using-text-classification&theme=tokyonight&border_radius=12)](https://github.com/qalab-e-hassnain/fake-ad-detection-using-text-classification)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=qalab-e-hassnain&show_icons=true&count_private=true&theme=tokyonight&hide=issues&border_radius=12&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qalab-e-hassnain&theme=tokyonight&border_radius=12&fire=DD2727" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalab-e-hassnain&layout=compact&theme=tokyonight&border_radius=12&hide=html,css,jupyter%20notebook&langs_count=8" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qalab-e-hassnain&theme=tokyo-night&hide_border=true&area=true&custom_title=Qalab's%20Contribution%20Graph)](https://github.com/qalab-e-hassnain)
-
-</div>
-
----
-
-## 📦 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qalab-e-hassnain&theme=tokyonight" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qalab-e-hassnain&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qalab-e-hassnain&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qalab-e-hassnain&theme=tokyonight" width="32%" />
-
-</div>
+Most client work is private. Full case studies with architecture diagrams: **[qalabagha.com](https://www.qalabagha.com)**
 
 ---
 
@@ -348,12 +311,14 @@ Full case studies: **[qalabagha.com](https://qalabagha.com)**
 
 <div align="center">
 
+**Available now.** Remote, working with teams in the UAE, UK and Australia.
+
 | 🤝 Engagement | 💬 Details |
 |:---:|:---|
+| **Contracts** | AI, full-stack and IoT/hardware builds, hourly or fixed price |
+| **Fractional CTO** | Startups building AI products from 0→1 |
+| **Full-Time Remote** | Senior AI Engineer, Full-Stack or Tech Lead roles |
 | **Research** | Collaborations in edge AI, wearable sensing and AI for health |
-| **Consulting** | Startups building AI products from 0→1 |
-| **Full-Time** | Senior AI Engineer / Backend Engineer roles |
-| **Freelance** | AI & backend projects with real-world impact |
 
 </div>
 
@@ -363,7 +328,8 @@ Full case studies: **[qalabagha.com](https://qalabagha.com)**
 
 **💬 Got an AI product you're building? A backend that needs fixing?**
 
-[![Email Me](https://img.shields.io/badge/Email-aghaqalabhassnain@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghaqalabhassnain@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-support@qalabagha.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@qalabagha.com)
+[![Book a call](https://img.shields.io/badge/Book_a_free_call-E11D2A?style=for-the-badge&logo=calendly&logoColor=white)](https://www.qalabagha.com/contact)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qalabhassnainagha)
 
 <br/>
